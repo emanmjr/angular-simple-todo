@@ -6,13 +6,13 @@ And just a simple todo list.
 
 ## Quick Start
 
-# Install dependencies
-npm install
+- Install dependencies
+run "npm install"
 
-# Serve on localhost:4200
-ng serve
+- Serve on localhost:4200
+run "ng serve"
 
-# Build for production
-ng build
+- Build for production
+run "ng build"
 
 
