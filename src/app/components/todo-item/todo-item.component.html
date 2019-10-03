@@ -1,0 +1,9 @@
+<div class="flex " [ngClass]="setLineThroughClass()">
+    <div class="flex-grow-0 sm:flex-grow md:flex-grow-0 lg:flex-grow xl:flex-grow-0 ...">
+            <p>
+                <input appChecktodo (change)="onToggle(todo)" type="checkbox" [checked]="checkTodo(todo)">
+                {{ todo.title }}
+                <button (click)="onDelete(todo)" class="btn btn-success">x</button>
+            </p>
+    </div>
+</div>
