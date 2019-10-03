@@ -5,14 +5,14 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 And just a simple todo list.
 
 ## Quick Start
-
-- Install dependencies
+```
+### Install dependencies
 run "npm install"
 
-- Serve on localhost:4200
+### Serve on localhost:4200
 run "ng serve"
 
-- Build for production
+### Build for production
 run "ng build"
-
+```
 
